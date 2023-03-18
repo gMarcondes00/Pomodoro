@@ -1,2 +1,7 @@
 # Pomodoro
- Pomodoro Timer
+
+Pomodoro Timer made with HTML, CSS and Javascript
+
+
+
+- [] Solve break bug
