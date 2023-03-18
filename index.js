@@ -14,7 +14,7 @@ function run () {
     semicircle[1].style.display = "block"
     semicircle[2].style.display = "block"
 
-    let minWork = 0.5 * 60000;
+    let minWork = 25 * 60000;
 
     const setTime = minWork 
     const startTime = Date.now();
@@ -76,7 +76,7 @@ function run () {
         function breakCount() {
 
             clearInterval(timerLoop)
-            let minWork = 0.1 * 60000;
+            let minWork = 5 * 60000;
 
             const setTime = minWork 
             const startTime = Date.now();
