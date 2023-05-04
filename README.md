@@ -1,10 +1,15 @@
-# Pomodoro
+<h1 align="center">POMODORO</h1>
 
-Pomodoro Timer made with HTML, CSS and Javascript
+<h2 align="center">Pomodoro Timer de 25 minutos e 5 minutos de break </h2> </br>
 
-25:00 minutes of work
-5:00 minutes of break
+![Pomodoro](https://user-images.githubusercontent.com/117871176/236244675-0443c1bf-18ac-44d1-9ef7-c4db796bb81d.png)
 
-[Live Demo](https://gmarcondes00.github.io/Pomodoro/)
+<div align="center">
+  <p>Todas as animações foram feitas em CSS, apenas com trigger no Javascript</p>
+  <h2>Tecnologias utilizadas:</h2>
+  <p>Javascript || CSS || HTML</p>
+</div>
 
-- [] Solve break bug
+Live Demo [aqui](https://gmarcondes00.github.io/Pomodoro/)
+
+- [x] Resolver bug do Break
